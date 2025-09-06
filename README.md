@@ -1,6 +1,6 @@
 # 🩺Medical Chatbot with LLMs, LangChain, Pinecone & Flask   
 A medical chatbot powered by **Large Language Models (LLMs)**, **LangChain**, **Pinecone** and **Flask**.  
-This project demonstrates how to build an end-to-end conversational AI system tailored for healthcare use cases — using **Google Generative AI API** .
+
 ---
 
 ## 🚀 How to Run  
